@@ -1,9 +1,13 @@
 # praktika4ikbo16-17
 # Болдырев Григорий
 
+
 import java.awt.*;
+
 import java.lang.*;
+
 import java.awt.event.*;
+
 import javax.swing.*;
 public class Football extends JFrame
 {
