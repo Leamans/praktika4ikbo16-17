@@ -9,6 +9,7 @@ import java.lang.*;
 import java.awt.event.*;
 
 import javax.swing.*;
+
 public class Football extends JFrame
 {
     int count = 0, count2 = 0;
