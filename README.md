@@ -2,25 +2,37 @@
 # Болдырев Григорий
 
 
-import java.awt.*;
 
-import java.lang.*;
+ import java.awt.*;
 
-import java.awt.event.*;
+ import java.lang.*;
 
-import javax.swing.*;
+ import java.awt.event.*;
 
-public class Football extends JFrame
+ import javax.swing.*;
+
+  public class Football extends JFrame
 {
+    
     int count = 0, count2 = 0;
+    
     JButton button = new JButton("AC Milan ");
+    
     JButton button2 = new JButton("Real Madrid");
+    
     JLabel lbl = new JLabel("Result: 0 x 0");
+    
+    
+    
     JLabel vs = new JLabel("VS");
+    
+    
     JLabel lbl2 = new JLabel("Last Scorer: N/A");
+    
     JLabel lbl3 = new JLabel("Winner: Draw");
+    
     JPanel[] pnl = new JPanel[4];
-
+    
     Football()
     {
         super("Футбол");
