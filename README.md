@@ -1,4 +1,4 @@
-# praktika4ikbo16-17-Boldyrev-Grigoriy
+# praktika4-ikbo16-17-Boldyrev-Grigoriy
 
 
 
