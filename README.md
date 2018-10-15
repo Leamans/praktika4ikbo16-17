@@ -1,5 +1,5 @@
-# praktika4ikbo16-17
-# Болдырев Григорий
+# praktika4ikbo16-17-Boldyrev-Grigoriy
+
 
 
 
